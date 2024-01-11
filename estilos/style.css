@@ -46,13 +46,14 @@ section#telefone{
 }
 
 section#redes-sociais{
-    text-align: center;
+    text-align: right;
 }
 
 section#redes-sociais img {
     border-radius: 50%;
-    width: 50px;
-    margin: 10px;
+    width: 40px;
+    margin-left: 8px;
+    margin-top: 8px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.400);
     box-sizing: border-box;
 }
